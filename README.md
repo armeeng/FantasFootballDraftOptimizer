@@ -4,7 +4,7 @@
 
 * **Data Aggregation**: Scrapes the latest player projections from ESPN and fetches ADP data from Fantasy Football Calculator.
 * **Intelligent Merging**: Uses fuzzy name matching to combine the two data sources into a single, clean dataset.
-* **Advanced Analytics**: Calculates Value Over Replacement (VOR) for each player to provide a better measure of their draft value.
+* **Analytics**: Calculates Value Over Replacement (VOR) for each player to provide a better measure of their draft value.
 * **Live Draft GUI**: An interactive Tkinter application that allows you to:
     * Track the draft in real-time by marking players as they are selected.
     * View the best players still available.
